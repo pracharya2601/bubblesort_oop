@@ -1,4 +1,4 @@
-# bubblesort_oop
+# bubblesort_oop_typescript
 
 ## Run Locally
 
